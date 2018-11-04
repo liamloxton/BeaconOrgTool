@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>BeaconOrgTool.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9720965C218D341B0043FFFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>97209670218D341D0043FFFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9720967B218D341D0043FFFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
