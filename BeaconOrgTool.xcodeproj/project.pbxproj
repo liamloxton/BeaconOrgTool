@@ -15,6 +15,8 @@
 		97209676218D341D0043FFFE /* BeaconOrgToolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97209675218D341D0043FFFE /* BeaconOrgToolTests.swift */; };
 		97209681218D341D0043FFFE /* BeaconOrgToolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97209680218D341D0043FFFE /* BeaconOrgToolUITests.swift */; };
 		975F1159218EA6100009CFF9 /* CameraBoxController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975F1158218EA6100009CFF9 /* CameraBoxController.swift */; };
+		97811B1521A25122002244F0 /* SyncVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97811B1421A25122002244F0 /* SyncVC.swift */; };
+		97811B1721A25152002244F0 /* UploadVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97811B1621A25152002244F0 /* UploadVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		97209680218D341D0043FFFE /* BeaconOrgToolUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeaconOrgToolUITests.swift; sourceTree = "<group>"; };
 		97209682218D341D0043FFFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		975F1158218EA6100009CFF9 /* CameraBoxController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraBoxController.swift; sourceTree = "<group>"; };
+		97811B1421A25122002244F0 /* SyncVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SyncVC.swift; path = ../SyncVC.swift; sourceTree = "<group>"; };
+		97811B1621A25152002244F0 /* UploadVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +105,9 @@
 			children = (
 				97209660218D341B0043FFFE /* AppDelegate.swift */,
 				97209662218D341B0043FFFE /* ViewController.swift */,
+				97811B1421A25122002244F0 /* SyncVC.swift */,
 				97209664218D341B0043FFFE /* Main.storyboard */,
+				97811B1621A25152002244F0 /* UploadVC.swift */,
 				975F1158218EA6100009CFF9 /* CameraBoxController.swift */,
 				97209667218D341D0043FFFE /* Assets.xcassets */,
 				97209669218D341D0043FFFE /* LaunchScreen.storyboard */,
@@ -260,7 +266,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				975F1159218EA6100009CFF9 /* CameraBoxController.swift in Sources */,
+				97811B1521A25122002244F0 /* SyncVC.swift in Sources */,
 				97209663218D341B0043FFFE /* ViewController.swift in Sources */,
+				97811B1721A25152002244F0 /* UploadVC.swift in Sources */,
 				97209661218D341B0043FFFE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
